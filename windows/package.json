@@ -1,0 +1,14 @@
+{
+  "name": "sandblocks",
+  "version": "1.0.0",
+  "description": "A modder helper for TurboWarp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "skellent",
+  "license": "ISC"
+}
