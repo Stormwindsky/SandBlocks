@@ -1,0 +1,9 @@
+/* Simple CSS default */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3{
+    text-align: center;
+}
